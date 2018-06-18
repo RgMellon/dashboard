@@ -7,19 +7,19 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
+## DashBoard
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Um template dashboard construido usando laravel e Vue.js
+com o intuito de apenas praticar a junção das duas tecnologias
+e experimentar o poder do blade junto do Vue para uma construção
+mais simples e estruturada.
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications.
+<p align="center">
+  <img width="600" src="https://user-images.githubusercontent.com/29661994/41537226-32ba8  80e-72de-11e8-9b61-2dabc65e4287.png">
+</p>
+
+
 
 ## Learning Laravel
 
