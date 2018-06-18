@@ -16,7 +16,7 @@ e experimentar o poder do blade junto do Vue para uma construção
 mais simples e estruturada.
 
 <p align="center">
-  <img width="600" src="https://user-images.githubusercontent.com/29661994/41537226-32ba8  80e-72de-11e8-9b61-2dabc65e4287.png">
+  <img width="600" src="https://user-images.githubusercontent.com/29661994/41537226-32ba880e-72de-11e8-9b61-2dabc65e4287.png">
 </p>
 
 
